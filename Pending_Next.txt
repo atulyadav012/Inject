@@ -1,0 +1,2 @@
+1. Create free api to save data in sql server database.
+2. call this api and save data of every sec using sql.
